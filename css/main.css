@@ -26,7 +26,7 @@ p {
   font-weight: normal;
 }
 
-a {
+.btn {
   color: #333;
   text-decoration: none;
   font-weight: normal;
@@ -36,7 +36,7 @@ a {
   display: inline-block;
 }
 
-a:hover {
+.btn:hover {
   background-color: #666;
   color: white;
 }
@@ -48,7 +48,7 @@ div {
   width: 100%;
   max-width: 25em;
   vertical-align: middle;
-  padding: .5em .5em 0;
+  padding: .5em .6em 0;
 }
 
 img {
